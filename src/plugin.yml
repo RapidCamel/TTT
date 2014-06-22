@@ -1,0 +1,18 @@
+name: TTT
+main: rapid.games.ttt.TTT
+version: 1.0.0
+
+commands:
+ meinteam:
+  description: Zeigt dein Team an
+ ttt:
+  description: Alle Befehle für TTT
+ t:
+  description: Befehl für den Traitorchat
+  usage: /t <Nachricht>
+ hub:
+  description: Bringt dich zurück zur Lobby
+  usage: /hub
+ toggleT:
+  description: Macht den Traitorchat an/aus
+  usage: /toogleT
